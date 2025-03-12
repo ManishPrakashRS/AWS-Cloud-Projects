@@ -1,0 +1,14 @@
+Cloud-Projects/
+│── AWS-Terraform-Setup/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── README.md
+│── Kubernetes-Deployment/
+│   ├── deployment.yaml
+│   ├── service.yaml
+│   ├── README.md
+│── CI-CD-Pipeline/
+│   ├── Jenkinsfile
+│   ├── Dockerfile
+│   ├── README.md
+│── README.md
